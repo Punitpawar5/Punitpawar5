@@ -48,7 +48,7 @@
         <div align="center">
           <img src="https://github.com/Punitpawar5/Customer-Churn-Prediction/blob/main/bank%20to%20costumer.gif" width="300" alt="Bank to Customers"/>
           <br />
-          <a href=https://github.com/Punitpawar5/Customer-Churn-Prediction" target="_blank">Explore Project</a>
+          <a href="https://github.com/Punitpawar5/Customer-Churn-Prediction" target="_blank">Explore Project</a>
         </div>
       </td>
     </tr>
