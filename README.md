@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Punit Pawar</h1>
 <h3 align="center">A Passionate Data Scientist who loves turning data into actionable insights!</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Punitpawar5&label=Profile%20views&color=0e75b6&style=flat" alt="punitpawar" /> </p>
 
 ---
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
 ### 🔧 Technologies & Tools
 - **Programming Languages**: Python, R, SQL, C, C++
