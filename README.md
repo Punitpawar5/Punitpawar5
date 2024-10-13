@@ -36,19 +36,27 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔎 Titanic Exploratory Data Analysis</h3>
-        <div align="center">
-          <img src="https://github.com/Punitpawar5/Titanic-dataset/blob/main/cartoon-network-escandalosos.gif" width="300" alt="The Project"/>
-          <br />
-          <a href="https://github.com/Punitpawar5/Titanic-dataset" target="_blank">Explore Project</a>
-        </div>
-      </td>
-      <td width="50%">
         <h3 align="center">🤖 Customer Churn Prediction Model</h3>
         <div align="center">
           <img src="https://github.com/Punitpawar5/Customer-Churn-Prediction/blob/main/bank%20to%20costumer.gif" width="300" alt="Bank to Customers"/>
           <br />
           <a href="https://github.com/Punitpawar5/Customer-Churn-Prediction" target="_blank">Explore Project</a>
+        </div>
+      </td>
+       <td width="50%">
+        <h3 align="center">🔎 Spam Email Detection</h3>
+        <div align="center">
+          <img src="https://github.com/Punitpawar5/email-spam-detection/blob/main/spaam.gif" width="300" alt="The Project"/>
+          <br />
+          <a href="https://github.com/Punitpawar5/email-spam-detection" target="_blank">Explore Project</a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔎 Titanic Exploratory Data Analysis</h3>
+        <div align="center">
+          <img src="https://github.com/Punitpawar5/Titanic-dataset/blob/main/cartoon-network-escandalosos.gif" width="300" alt="The Project"/>
+          <br />
+          <a href="https://github.com/Punitpawar5/Titanic-dataset" target="_blank">Explore Project</a>
         </div>
       </td>
     </tr>
