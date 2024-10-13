@@ -43,14 +43,6 @@
           <a href="https://github.com/Punitpawar5/Customer-Churn-Prediction" target="_blank">Explore Project</a>
         </div>
       </td>
-       <td width="50%">
-        <h3 align="center">🔎 Spam Email Detection</h3>
-        <div align="center">
-          <img src="https://github.com/Punitpawar5/email-spam-detection/blob/main/spaam.gif" width="300" alt="The Project"/>
-          <br />
-          <a href="https://github.com/Punitpawar5/email-spam-detection" target="_blank">Explore Project</a>
-        </div>
-      </td>
       <td width="50%">
         <h3 align="center">🔎 Titanic Exploratory Data Analysis</h3>
         <div align="center">
@@ -62,7 +54,31 @@
     </tr>
   </table>
 </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td <td width="50%">
+        <h3 align="center">🔎 Spam Email Detection</h3>
+        <div align="center">
+          <img src="https://github.com/Punitpawar5/email-spam-detection/blob/main/spaam.gif" width="337" alt="The Project"/>
+          <br />
+          <a href="https://github.com/Punitpawar5/email-spam-detection" target="_blank">Explore Project</a>
+        </div>
+      </td>
+      <td <td width="50%">
+        <h3 align="center">🔎 Other Projects</h3>
+        <div align="center">
+          <br />
+          <br />
+          <br />
+          <br />
+          <a href="https://github.com/Punitpawar5?tab=repositories" target="_blank">       Click HERE        <br /> To Explore More Project</a>
+          <br /><br /><br /><br /><br /><br /><br />
+        </div>
+      </td>
+     </tr>
+  </table>
+</div>
 ---
 
 ### 📊 Github Stats:
