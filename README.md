@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punit Pawar</h1>
+<h1 align="center">Hey👋, I'm Punit Pawar</h1>
 <h3 align="center">A Passionate Data Scientist who loves turning data into actionable insights!</h3>
 
 
@@ -9,7 +9,7 @@
 
 ### 🔧 Technologies & Tools
 - **Programming Languages**: Python, R, SQL, C, C++
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
 - **Database Management**: MySQL, PostgreSQL
 - **Cloud Platforms**: AWS, GCP, Azure
