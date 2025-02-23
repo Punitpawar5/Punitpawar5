@@ -82,6 +82,16 @@
 ---
 
 
+### 📊 Github Stats:
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Punitpawar5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="punitpawar-stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punitpawar5&layout=compact&langs_count=8&theme=tokyonight" alt="punitpawar-langs"/>
+</p>
+
+---
+
+
 <h2 align="center">Let's Connect!</h2>
 
 <p align="center">
